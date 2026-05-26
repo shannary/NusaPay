@@ -1,0 +1,6 @@
+{
+  "name": "NusaPay Vulnerable Target",
+  "description": "Situs transaksi digital terintegrasi NusaPay & Arena Slot dengan monitor firewall WAF Guardian di latar belakang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
